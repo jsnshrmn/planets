@@ -1,0 +1,4 @@
+# exclude data processing input files
+*.dat
+# exclude results from data processing
+results/
